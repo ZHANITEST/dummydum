@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ZHANITEST"
+	],
+	"copyright": "Copyleft 2020, ZHANITEST",
+	"description": "Make dummy data for test",
+	"license": "LGPL-2.1",
+	"name": "dummydum",
+	"dependencies": {
+		"std_data_json":"0.18.4"
+	}
+}
